@@ -2,7 +2,7 @@ import requests
 import argparse
 import sys
 import csv
-import time
+
 
 GITHUB_API = "https://api.github.com"
 def cli_parse():

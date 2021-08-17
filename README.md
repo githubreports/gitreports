@@ -18,7 +18,7 @@ optional arguments:
   --authkey AUTHKEY     git hub auth key
 </pre>
 
-Sample CSV File Content:
+Sample CSV Ouput File Content:
 
 <pre>
 login;name;email;repos;languages

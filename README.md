@@ -16,4 +16,12 @@ optional arguments:
   --organisation ORGANISATION
                         organisation
   --authkey AUTHKEY     git hub auth key
+</pre>
+
+Sample CSV File Content:
+
+<pre>
+login;name;email;repos;languages
+
+kiran007;Kiran Reddy;kiran.yerram139@gmail.com;python_project,myrepo;java,python,go
 <pre>

@@ -19,6 +19,6 @@ class Mytest(unittest.TestCase):
        actual = gitreport.generate_csv_report({'login': 'kiran007', 'name': 'Kiran Reddy',\
                                             'email': 'kiran.yerram139@gmail.com', \
                                             "repos":"python_project,myrepo", "languages":"java,python,go"})
-       expected = self.assertis
+       expected = "Success"
        self.assertEqual(actual, expected)
 
